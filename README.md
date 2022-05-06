@@ -1,3 +1,3 @@
 # cycle
-my first website
-https://siwashan23.github.io/cycle/
+freinds project
+https://pratik213.github.io/EasyCycle/
